@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aman 👋
 
-<!--
-**Aman-Nasir/Aman-Nasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning AWS and building cloud projects.
 
-Here are some ideas to get you started:
+## About Me
+- AWS and Cloud Security learner
+- Interested in Cloud and IT roles
+- Building hands-on AWS projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- AWS IAM
+- Amazon EC2
+- Amazon S3
+- GitHub
+- Cloud basics
+
+## Projects
+- aws-iam-basic-security
+- aws-s3-static-website
+- aws-ec2-website-hosting
+
+## Focus
+Focused on AWS, Cloud Security, and building real-world cloud projects
