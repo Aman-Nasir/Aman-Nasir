@@ -14,6 +14,11 @@ Building and deploying cloud projects on AWS with a focus on security and real-w
 - GitHub
 - Cloud basics
 
+## Tools
+- AWS Management Console
+- Git
+- GitHub
+
 ## Projects
 - [aws-iam-access-control](https://github.com/Aman-Nasir/aws-iam-access-control)
 - [aws-s3-static-website-hosting](https://github.com/Aman-Nasir/aws-s3-static-website-hosting)
