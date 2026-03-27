@@ -3,7 +3,7 @@
 Building and deploying cloud projects on AWS with a focus on security and real-world applications.
 
 ## About Me
-- AWS and Cloud Security learner
+- Working with AWS and Cloud Security practices
 - Interested in Cloud and IT roles
 - Building hands-on AWS projects
 
@@ -11,7 +11,6 @@ Building and deploying cloud projects on AWS with a focus on security and real-w
 - AWS IAM
 - Amazon EC2
 - Amazon S3
-- GitHub
 - Cloud basics
 
 ## Tools
