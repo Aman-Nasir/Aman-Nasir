@@ -15,9 +15,9 @@ I'm currently learning AWS and building cloud projects.
 - Cloud basics
 
 ## Projects
-- aws-iam-basic-security
-- aws-s3-static-website
-- aws-ec2-website-hosting
+- [aws-iam-basic-security](https://github.com/Aman-Nasir/aws-iam-basic-security)
+- [aws-s3-static-website](https://github.com/Aman-Nasir/aws-s3-static-website)
+- [aws-ec2-website-hosting](https://github.com/Aman-Nasir/aws-ec2-website-hosting)
 
 ## Focus
 Focused on AWS, Cloud Security, and building real-world cloud projects
