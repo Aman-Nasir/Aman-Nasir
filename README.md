@@ -1,6 +1,6 @@
 # Hi, I'm Aman 👋
 
-I'm currently learning AWS and building cloud projects.
+Building and deploying cloud projects on AWS with a focus on security and real-world applications.
 
 ## About Me
 - AWS and Cloud Security learner
