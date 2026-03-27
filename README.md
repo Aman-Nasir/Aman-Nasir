@@ -16,8 +16,8 @@ I'm currently learning AWS and building cloud projects.
 
 ## Projects
 - [aws-iam-access-control](https://github.com/Aman-Nasir/aws-iam-access-control)
-- [aws-s3-static-website](https://github.com/Aman-Nasir/aws-s3-static-website)
-- [aws-ec2-website-hosting](https://github.com/Aman-Nasir/aws-ec2-website-hosting)
+- [aws-s3-static-website-hosting](https://github.com/Aman-Nasir/aws-s3-static-website-hosting)
+- [aws-ec2-static-website-deployment](https://github.com/Aman-Nasir/aws-ec2-static-website-deployment)
 
 ## Focus
 Focused on AWS, Cloud Security, and building real-world cloud projects
